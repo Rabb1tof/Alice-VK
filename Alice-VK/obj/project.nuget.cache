@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vV7517rVsqr1/ECoQBgfV+nfk9E5Qf9+KkawKRHeTGkrrRz0w5eeMlSV/h8ymZCGNwHKy1xigrD5SuIOIeRCvA==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Alice-VK\\Alice-VK\\Alice-VK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rabb1t\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
